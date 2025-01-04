@@ -17,5 +17,4 @@ public class Artist extends Customer{
         this.isPremium = isPremium;
     }
 
-
 }
