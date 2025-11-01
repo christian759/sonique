@@ -1,6 +1,6 @@
 package com.csphere.sonique;
 
-import static com.csphere.sonique.users.Customer.PASSWORD_ENCODER;
+import static com.csphere.sonique.model.Customer.PASSWORD_ENCODER;
 
 public class Verification {
 
